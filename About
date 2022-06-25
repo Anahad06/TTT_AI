@@ -1,0 +1,10 @@
+This game uses the Mini-Max Algorithm to create an unbeatable AI.
+
+How It Works? 
+
+In game theory, the Minimax algorithm determines the best course of action. The opponent's optimal play is taken into account by the Minimax algorithm. 
+In essence, we programme two AIs to play every conceivable Tic Tac Toe result, and then the AI presents the player with those results based on the best move. 
+
+Can you beat it? 
+
+No! It is impossible to beat. 
